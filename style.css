@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Baskervville', serif;
+    font-family: 'Hind Madurai', sans-serif;
+    background-color: #F9F9F9;
+}
+@font-face {
+    font-family: Baskervville;
+    src: url("assets/fonts/Baskervville-Regular.ttf");
+}
+@font-face {
+    font-family: Hind Madurai;
+    src: url("assets/fonts/HindMadurai-Regular.ttf");
+}
+h1 {
+    font-family: 'Baskervville';
+    Font style: Regular;
+    Font size: 70px;
+    Line height: 110%;
+    /* identical to box height, or 77px */
+    Align: Left;
+    Vertical align: Top;
+    color: #202020;
+    text-transform: uppercase;
+
+}
+h2 {
+    font-family: 'Baskervville';
+    font-style: Regular;
+    font-size: 48px;
+    line-height: 120%;
+        /* identical to box height, or 58px */
+    text-transform: uppercase;
+    color: #202020;
+}
+h3 {
+    font-family: 'Baskervville';
+    font-style: regular;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+        /* identical to box height, or 24px */
+    text-transform: uppercase;
+    color: #202020;
+}
+p {
+    font-family: 'Hind Madurai';
+    font-style: regular;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 130%;
+        /* or 21px */
+    color: #202020;
+}
+
+
+
